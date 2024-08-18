@@ -30,7 +30,7 @@ print("Hello World!!!")
 #-------------------------------------------
 
 x = 5               #Integer
-y = "Hey Brus"      #String
+y = "Hey Bruh"      #String
 print (x,y )
 
 x = str(3) 
@@ -68,17 +68,17 @@ my_variable_name = "John"
 #
 """
 
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x)
 
-y = """1 Hey Brus
-2 Hey Brus
-3 Hey Brus
+y = """1 Hey Bruh
+2 Hey Bruh
+3 Hey Bruh
 """
 print(y)
 
 #ให้แสดงผล x อักษร ค่าที่ 2 รวม 0
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x[2])
 print(len(x))       #หาค่าความกว้างของข้อมูล
 
@@ -87,7 +87,7 @@ print("What sup" not in x)
 print(x.upper())    #ให้ค่าเป็นตัวใหญ่ทั้งหมด
 print(x.lower())    #ให้ค่าเป็นตัวเล็ก
 
-print(x.replace("Brus", "Sis")) #โค้ดการแทนคำ
+print(x.replace("Bruh", "Sis")) #โค้ดการแทนคำ
 print(x.split("  "))            #ตัดคำ
 a = "Apple"
 b = "Company"
